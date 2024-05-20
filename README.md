@@ -10,9 +10,6 @@
     <a href="mailto:anrwt9389@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://www.hackerrank.com/saurabhrawat367?hr_r=1">
-        <img src="https://img.shields.io/badge/HackerRank-square&logo=HackerRank" alt="HackerRank">
-    </a>
 </p>
 
 ### Languages
@@ -22,7 +19,6 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ankitrawatgit)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/ankitrawatgit)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/ankitrawatgit)
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/ankitrawatgit)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ankitrawatgit)
